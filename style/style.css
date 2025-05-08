@@ -54,7 +54,7 @@ header .dropdown .dropdown_list {
 }
 
 header .dropdown ul {
-    top: 43%;
+    top: 100px;
     right: 3%;
     position: absolute;
     padding: 20px;
